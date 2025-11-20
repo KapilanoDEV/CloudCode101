@@ -7,4 +7,4 @@
 
 string tempvar = 'Amit Kapila';
 System.debug('Hello World!');
-System.debug('My name is ' + tempvar);
+System.debug('My sobriquet is ' + tempvar);
